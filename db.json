@@ -1,0 +1,308 @@
+{
+    "ingredientsList": [
+      {
+          "isChecked": false,
+          "id": 1,
+          "name": "Molho",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 2,
+          "name": "Queijo Mussarela",
+          "price": 3.00
+      },
+      {    
+          "isChecked": false,
+          "id": 3,
+          "name": "Tomate",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id":4,
+          "name": "Orégano",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 5,
+          "name": "Frango",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 6,
+          "name": "Calabresa",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 7,
+          "name": "Catupiry",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 8,
+          "name": "Cebola",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 9,
+          "name": "Atum",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 10,
+          "name": "Presunto",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 11,
+          "name": "Ovo",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 12,
+          "name": "Palmito",
+          "price": 5.00
+      },
+      {
+          "isChecked": false,
+          "id": 13,
+          "name": "Ervilha",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 14,
+          "name": "Brocolis",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 15,
+          "name": "Bacon",
+          "price": 5.00
+      },
+      {
+          "isChecked": false,
+          "id": 16,
+          "name": "Azeitona",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 17,
+          "name": "Camarão",
+          "price": 10.00
+      },
+      {
+          "isChecked": false,
+          "id": 18,
+          "name": "Pimentão",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 19,
+          "name": "Aliche",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 20,
+          "name": "Queijo Cheddar",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 21,
+          "name": "Queijo Provolone",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 22,
+          "name": "Requeijão Cremoso",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 23,
+          "name": "Cream Cheese",
+          "price": 5.00
+      },
+      {
+          "isChecked": false,
+          "id": 24,
+          "name": "Carne Moida",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 25,
+          "name": "Doce de leite",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 26,
+          "name": "Chocolate",
+          "price": 5.00
+      },
+      {
+          "isChecked": false,
+          "id": 27,
+          "name": "Chocolate Branco",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 28,
+          "name": "Leite ninho",
+          "price": 5.00
+      },
+      {
+          "isChecked": false,
+          "id": 29,
+          "name": "Chocolate Amargo",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 30,
+          "name": "Granulado",
+          "price": 2.00
+      },
+      {
+          "isChecked": false,
+          "id": 31,
+          "name": "Banana",
+          "price": 3.00
+      },
+      {
+          "isChecked": false,
+          "id": 32,
+          "name": "Morango",
+          "price": 4.00
+      },
+      {
+          "isChecked": false,
+          "id": 33,
+          "name": "Danoninho",
+          "price": 4.00
+      }
+    ],
+    "pizzas": [
+      {
+          "id": 1,
+          "price": 25.00,
+          "name": "Baiana",
+          "ingredients": [
+              "Queijo",
+              "Calabresa",
+              "Pimenta",
+              "Ovo"
+          ]
+      },
+      {
+        "id":2,
+        "price":30.00,
+        "name": "Portuguesa",
+        "ingredients": [
+            "Queijo",
+            "Presunto",
+            "Palmito",
+            "Ovo",
+            "Ervilha"
+        ]
+      },
+      {
+        "id":3,
+        "price":28.00,
+        "name": "4 Queijos",
+        "ingredients": [
+            "Queijo Mussarela",
+            "Queijo Gorgonzola",
+            "Queijo Parmesão",
+            "Queijo Provolone"
+        ]
+      },
+      {
+        "id":4,
+        "price":23.00,
+        "name": "Calabresa",
+        "ingredients": [
+            "Queijo Mussarela",
+            "Calabresa"
+        ]
+      },
+      {
+        "id":5,
+        "price":24.00,
+        "name": "Champignom",
+        "ingredients": [
+            "Queijo Mussarela",
+            "Champignom"
+        ]
+      },
+      {
+        "id":6,
+        "price":20.00,
+        "name": "Mussarela",
+        "ingredients": [
+            "Queijo Mussarela" 
+        ]
+      },
+      {
+        "id":7,
+        "price":26.00,
+        "name": "Peruana",
+        "ingredients": [
+            "Queijo Mussarela",
+            "Peito de Peru",
+            "Pimenta" 
+        ]
+      },
+      {
+        "id":8,
+        "price":20.00,
+        "name": "Mussarela",
+        "ingredients": [
+            "Queijo Mussarela" 
+        ]
+      },
+      {
+        "id":9,
+        "price":20.00,
+        "name": "Mussarela",
+        "ingredients": [
+            "Queijo Mussarela" 
+        ]
+      }
+      
+    ],
+    "img":[
+    {
+        "src":"../../../assets/img/pizza.jpg"
+    },
+    {
+        "src":"../../../assets/img/pizza 4.jpg"
+    },
+    {
+        "src":"../../../assets/img/pizza 5.jpg"
+    },
+    {
+        "src":"../../../assets/img/pizza 2.jpg"
+    },
+    {
+        "src":"../../../assets/img/pizza1jpg.jpg"
+    }
+]
+  }

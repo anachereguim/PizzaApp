@@ -1,0 +1,26 @@
+
+<div class="cards" *ngFor="let pizza of pizzas">
+  <div class="container">
+    <div class="card">
+      <div class="imgBx">
+        <img src="assets/img/ppizza.png">
+      </div>
+      <div class="contentBx">
+        <h2>Pizza {{pizza.name}}</h2>
+        <div class="price">
+          <h3>Preço:</h3>
+          <span>Ingredientes: {{pizza.ingredients}}</span>
+          <hr>
+          <span>R${{pizza.price}},00</span>
+        </div>
+       <button routerLink="/menu/cardapio/{{pizza.id}}">Escolher</button>
+      </div>
+    </div>
+  </div>
+  </div>
+<br>
+<br>
+<div class="botao">
+  <button (click)="goBack()">Voltar</button>
+</div>
+
